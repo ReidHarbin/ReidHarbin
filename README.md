@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Reid Harbin [TouchBase](reidharbin.com)</h1>
+<h1 align="center">Hi 👋, I'm Reid Harbin </h1>
 <h3 align="center">A Backend Developer Student From Georgia</h3>
 
-- 🔭 I’m currently working on [TouchBase](http://touchbase.s3-website-us-west-2.amazonaws.com/)
+- 🔭Find out more about me at [[reidharbin.com](http://reidharbin.com/))
 
 - 🌱 I’m currently learning **Java and Amazon Web Services**
 
