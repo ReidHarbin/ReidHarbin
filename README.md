@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reid Harbin</h1>
+<h2 align="center">Junior Backend Engineer</h2>
 
 ###
 
@@ -6,7 +7,12 @@
 
 ###
 
-<p align="left">I'm a Junior Backend Developer<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+I find immense satisfaction in deciphering complex problems and translating them into efficient backend systems that ensure streamlined communication between clients and data. Whether it's designing data models or building robust
+APIs, I am always up for the challenge.
+
+- 🔭 I’m currently working on [TouchBase](https://github.com/ReidHarbin/TouchBase)  
+- 📚 I'm currently learning service design
+- ⚡ In my free time I get myself up to date on any and all Formula1 news
 
 ###
 
@@ -36,12 +42,11 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
+### 🌐 Get in Touch
 
-<div align="center">
+###
   <a href="https://www.linkedin.com/in/reidharbin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
 
 ###
