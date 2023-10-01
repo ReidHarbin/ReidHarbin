@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Reid Harbin</h1>
 <h2 align="center">Junior Backend Engineer</h2>
+<h3 align="center"><a align="center" href="https://reidharbin.com" target="_blank"> 👀 Check out my projects here</a></h3>
+
+###
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
 I find immense satisfaction in deciphering complex problems and translating them into efficient backend systems that ensure streamlined communication between clients and data. Whether it's designing data models or building robust
 APIs, I am always up for the challenge.
 
-- 🔭 I’m currently working on [TouchBase](https://github.com/ReidHarbin/TouchBase)  
-- 📚 I'm currently learning service design
+- 📚 I'm currently learning Service Design 
 - ⚡ In my free time, I get myself up to date on any and all Formula1 news
 
 ###
