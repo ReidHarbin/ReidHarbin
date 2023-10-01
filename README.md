@@ -12,7 +12,7 @@ APIs, I am always up for the challenge.
 
 - 🔭 I’m currently working on [TouchBase](https://github.com/ReidHarbin/TouchBase)  
 - 📚 I'm currently learning service design
-- ⚡ In my free time I get myself up to date on any and all Formula1 news
+- ⚡ In my free time, I get myself up to date on any and all Formula1 news
 
 ###
 
