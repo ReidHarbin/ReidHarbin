@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Reid Harbin</h1>
-<h2 align="center">Junior Backend Engineer</h2>
-<h3 align="center"><a align="center" href="https://reidharbin.com" target="_blank"> 👀 Check out my projects here</a></h3>
+<h1 align="center">Hi 👋, I'm Reid Harbin </br>A Junior Backend Engineer</h1>
+<h2 align="center">👀 Check out my projects on my <a align="center" href="https://reidharbin.com" target="_blank">website</a></h2>
 
 ###
 
